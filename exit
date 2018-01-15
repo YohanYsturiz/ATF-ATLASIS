@@ -1,0 +1,11 @@
+[33mcommit 2271a57ebbb7bcee8833bf575e7d8d16a5e3f326[m
+Author: David Vásquez <djv_guerra@hotmail.com>
+Date:   Mon Oct 9 19:07:36 2017 -0400
+
+    Limpieza del Código
+
+[33mcommit ea76b6133cc36da6da09796897529db274d2b6b8[m
+Author: David Vásquez <djv_guerra@hotmail.com>
+Date:   Mon Oct 9 17:39:15 2017 -0400
+
+    Implementación de vuex
